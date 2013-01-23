@@ -49,6 +49,7 @@
 		A1C2C5DE15B9E9160075D09D /* Portuguese */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = Portuguese; path = Portuguese.lproj/MoveApplication.strings; sourceTree = "<group>"; };
 		A1C2C5E015B9E9710075D09D /* pt-BR */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "pt-BR"; path = "pt-BR.lproj/MoveApplication.strings"; sourceTree = "<group>"; };
 		A1C56A0711EAB56A00579B0C /* Italian */ = {isa = PBXFileReference; fileEncoding = 10; lastKnownFileType = text.plist.strings; name = Italian; path = Italian.lproj/MoveApplication.strings; sourceTree = "<group>"; };
+		D49BA0E016AF676E00132CDA /* zh-Hant */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "zh-Hant"; path = "zh-Hant.lproj/MoveApplication.strings"; sourceTree = "<group>"; };
 		FFA30E7310C401D000AC7AC8 /* Russian */ = {isa = PBXFileReference; fileEncoding = 10; lastKnownFileType = text.plist.strings; name = Russian; path = Russian.lproj/MoveApplication.strings; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -194,6 +195,7 @@
 				"zh-Hans",
 				Portuguese,
 				"pt-BR",
+				"zh-Hant",
 			);
 			mainGroup = 29B97314FDCFA39411CA2CEA /* LetsMove */;
 			projectDirPath = "";
@@ -264,6 +266,7 @@
 				257C4710141B40250087919D /* zh-Hans */,
 				A1C2C5DE15B9E9160075D09D /* Portuguese */,
 				A1C2C5E015B9E9710075D09D /* pt-BR */,
+				D49BA0E016AF676E00132CDA /* zh-Hant */,
 			);
 			name = MoveApplication.strings;
 			sourceTree = "<group>";
